@@ -21,4 +21,4 @@ for i in range(jumlah_pembeli) :
     print (f"harga tiket untuk pembeli = {i+1}, dan jumlah total pembelinnya = {total_harga_pembeli}")
 
     total_harga_keseluruhan = total_harga_keseluruhan + total_harga_pembeli
-print (f"total harga tiket keseluruhan = {total_harga_pembeli}")
+print (f"total harga tiket keseluruhan = {total_harga_keseluruhan}")
